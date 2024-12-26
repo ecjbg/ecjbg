@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: Humans Exist,Experience and Exit.
+- ⚡ Fun fact: Exist.Experience.Exit.
 
 <!---
 ecjbg/ecjbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
