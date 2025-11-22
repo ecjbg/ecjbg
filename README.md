@@ -4,8 +4,7 @@
 
 ---
 
-## 🚀 About Me  
-- 💻 2nd year CSE student  
+## 🚀 About Me   
 - 🌱 Currently mastering **Java, C++, Spring Boot, Docker, Kubernetes & AWS**  
 - 🧠 Competitive Programmer — Codeforces: **hjklmnoptyty543**  
 - 🎯 Goal: Become a top backend + cloud engineer  
