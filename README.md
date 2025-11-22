@@ -9,7 +9,7 @@
 - 💻 Strong in **C, C++, Java, Competitive Programming**
 - 💬 Ask me about **Backend, DSA, Java, Spring Boot**
 - 🎯 Goal: Becoming a world-class engineer & competitive programmer
-- 📫 How to reach me: **(add your email here)**
+- 📫 How to reach me: bluewaltzz8@gmail.com
 
 ---
 
