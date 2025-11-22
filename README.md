@@ -37,39 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecjbg&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecjbg&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🔥 Streak Stats  
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ecjbg&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ⚡ GitHub Activity Graph  
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ecjbg&theme=tokyo-night)](https://github.com/ecjbg/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ecjbg&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+=---
 
 ## 📌 Pinned Projects  
 
